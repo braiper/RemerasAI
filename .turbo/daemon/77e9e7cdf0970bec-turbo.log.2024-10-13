@@ -330,3 +330,6 @@
 2024-10-13T20:33:54.845015Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("apps\\client") }}))
 2024-10-13T20:34:53.032407Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\client\\src\\App.jsx")}
 2024-10-13T20:34:53.032431Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("apps\\client") }}))
+2024-10-13T21:14:31.234926Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies"), AnchoredSystemPathBuf(".turbo\\cookies\\1.cookie"), AnchoredSystemPathBuf(".turbo\\cookies\\.turbo-cookie")}
+2024-10-13T21:14:31.234969Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T21:14:31.265055Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
